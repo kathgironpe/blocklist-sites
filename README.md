@@ -1,3 +1,3 @@
-# Sites I blocklist
+# Sites I block
 
 ## 1. Facebook
